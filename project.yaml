@@ -6,7 +6,7 @@ metadata:
 spec:
   description: Demo project for Azure AKS
   sourceRepos:
-    - https://github.com/your-username/your-repo
+    - https://github.com/keyronguillen/ArgoCDSample.git
   destinations:
     - namespace: default
       server: https://kubernetes.default.svc
